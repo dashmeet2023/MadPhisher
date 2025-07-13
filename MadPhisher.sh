@@ -4,7 +4,7 @@
 ##   MadPhisher : 	Automated Phishing Tool
 ##   Author 	: 	Dashmeet Singh
 ##   Version 	: 	2.1
-##   Github 	: 	https://github.com/SajidIbnNayeem
+##   Github 	: 	https://github.com/dashmeet2023
 
 
 __version__="2.1"
