@@ -98,7 +98,7 @@ bash MadPhisher.sh
 # Access Local Services anywhere using Cloudflared (link generate for public)
 <li> You must first install Cloudflared-termux</li>
   You have to install Cloudflared-termux from 
-  https://github.com/SajidIbnNayeem/Cloudflared-termux.git
+  https://github.com/dashmeet2023/Cloudflared-termux.git
 <li> Access local services anywhere using cloudflared</li>
   
   <li> Open a new terminal(new session) and type</li>
