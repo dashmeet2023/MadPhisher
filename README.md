@@ -43,6 +43,8 @@ cd MadPhisher
 bash MadPhisher.sh
 ```
 # Screenshots
+<img width="554" height="596" alt="Screenshot 2025-07-14 034430" src="https://github.com/user-attachments/assets/8b666129-fa6e-4e62-8a47-ec039fe55f4b" />
+
 
 ![Screenshot From 2025-02-13 14-03-02](https://github.com/user-attachments/assets/146ecc8a-9410-4da0-bfed-5f90d944b33f)
 ![Screenshot From 2025-02-13 14-05-37](https://github.com/user-attachments/assets/35fb97f5-968f-414d-9e65-20b5f721224f)
