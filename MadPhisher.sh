@@ -2,7 +2,7 @@
 #!/bin/bash
 
 ##   MadPhisher : 	Automated Phishing Tool
-##   Author 	: 	Sajid Ibn Nayeem
+##   Author 	: 	Dashmeet Singh
 ##   Version 	: 	2.1
 ##   Github 	: 	https://github.com/SajidIbnNayeem
 
