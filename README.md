@@ -3,10 +3,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/SajidIbnNayeem/Madphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/SajidIbnNayeem/MadPhisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/SajidIbnNayeem/MadPhisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/SajidIbnNayeem/MadPhisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/dashmeet2023/Madphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/dashmeet2023/MadPhisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/dashmeet2023/MadPhisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/dashmeet2023/MadPhisher?color=teal&style=for-the-badge">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Dashmeet Singh-blue?style=flat-square">
