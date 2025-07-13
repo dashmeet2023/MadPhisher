@@ -86,7 +86,8 @@ cd MadPhisher
 bash MadPhisher.sh
 ```
 
-![Madphisher](https://github.com/user-attachments/assets/853d35e0-b289-4d31-a425-aa108c221300)
+<img width="554" height="596" alt="Screenshot 2025-07-14 034430" src="https://github.com/user-attachments/assets/8c7210a1-96ce-4e1c-ad51-efd99a788789" />
+
 
 
 
