@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/forks/SajidIbnNayeem/MadPhisher?color=teal&style=for-the-badge">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-SajidIbnNayeem-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-Dashmeet Singh-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
@@ -32,7 +32,7 @@ it only demonstrates "how phishing works". <b>You shall not misuse the informtio
  - Just, Clone this repository -
 
  ```
-  git clone https://github.com/SajidIbnNayeem/MadPhisher.git
+  git clone https://github.com/dashmeet2023/MadPhisher.git
  ```
 
 - Now go to cloned directory and run 'Madphisher.sh' - 
@@ -78,7 +78,7 @@ The link will be like this:- ```https://checking-expires-internet-another.tryclo
  - Just, Clone this repository -
 
  ```
-  git clone https://github.com/SajidIbnNayeem/MadPhisher.git
+  git clone https://github.com/dashmeet2023/MadPhisher.git
  ```
 
 - Now go to cloned directory and run 'Madphisher.sh' - 
@@ -111,16 +111,8 @@ bash MadPhisher.sh
 
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/SajidIbnNayeem">
+  <a href="https://github.com/dashmeet2023">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   
-   <a href="https://www.instagram.com/sajid_ibn_nayeem?igsh=MXdnNmttb292MnFuaQ==">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   
-   <a href="https://twitter.com/Sajid_nayeem_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
+  
